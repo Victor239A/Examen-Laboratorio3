@@ -9,6 +9,7 @@ export function tareas(){
     seccion.appendChild(title);
   
    
+    
     return seccion;
 
 }

@@ -1,4 +1,4 @@
-import { centro } from "/componentes/formulario/formulario.js";
+import { centro } from "./componentes/formulario/formulario.js";
 import { tareas } from "./componentes/tareas/tareas.js";
 
     let section = document.createElement('section');

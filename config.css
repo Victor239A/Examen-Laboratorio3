@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    width: 400px;
+  margin: auto;
  
 }
 
 html {
     font-size: 12px;
     font-family: monospace;
-    margin: auto;
+   
   
 }

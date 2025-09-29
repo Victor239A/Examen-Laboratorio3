@@ -1,8 +1,7 @@
 .centro {
   margin-top: 50px;
   display: flex;
-  
-width: 600px;
+ width: 1500px;
 flex-direction:row;
   gap: 5rem;
   padding: 2rem;
@@ -10,6 +9,8 @@ flex-direction:row;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   text-align: center;
+  
+  
  
 }
 
@@ -20,10 +21,12 @@ flex-direction:row;
   border-radius: 0.5rem;
   font-size: 1rem;
   width: 1750px;
+  height: 60px;
 }
 
 .centro button {
   width: 350px;
+  height: 70px;
   padding: 0.7rem;
   background-color: #28a745;
   color: white;

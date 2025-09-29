@@ -2,8 +2,7 @@
 export function centro() {
     let div = document.createElement("div");
     div.className = "centro";
-    div.id = "Seccion";
-  
+   
     let total = document.createElement("h2");
     total.className = "total";
   
